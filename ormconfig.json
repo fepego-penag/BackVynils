@@ -1,6 +1,6 @@
 {
     "type": "postgres",
-    "host": "postgres://lavobyzsxycpqb:e160598925964c241cec05a13c73d82d1c9b6cfda972e94ee5b479579bb58d6f@ec2-3-87-180-131.compute-1.amazonaws.com:5432",
+    "host": "lavobyzsxycpqb:e160598925964c241cec05a13c73d82d1c9b6cfda972e94ee5b479579bb58d6f@ec2-3-87-180-131.compute-1.amazonaws.com",
     "port": 5432,
     "username": "lavobyzsxycpqb",
     "password": "e160598925964c241cec05a13c73d82d1c9b6cfda972e94ee5b479579bb58d6f",
